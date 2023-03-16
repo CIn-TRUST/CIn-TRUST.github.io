@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIn-TRUST</title>
+    <link>https://CIn-TRUST.github.io/</link>
+      <atom:link href="https://CIn-TRUST.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>CIn-TRUST</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CIn-TRUST.github.io/media/icon_hu02baf26ffacc78e885989892f8f0882a_18966_512x512_fill_lanczos_center_3.png</url>
+      <title>CIn-TRUST</title>
+      <link>https://CIn-TRUST.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Formal analysis of blockchain components</title>
+      <link>https://CIn-TRUST.github.io/projects/blockchain/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CIn-TRUST.github.io/projects/blockchain/</guid>
+      <description>&lt;div align=&#34;justify&#34;&gt;This project investigates different applications of formal analysis in the context of blockchain systems.&lt;/div&gt;
+&lt;br&gt;
+&lt;div align=&#34;justify&#34;&gt;The prime example is (and the focus of the project will be) the formal analysis of smart contracts to ensure that they behave as intended by the developer. The methods and technologies developed in the project have the potential to propel the adoption of blockchain systems. The Project is a cooperation between CIn-UFPE, in Brazil, and TBTL, in Oxford-UK.&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Model transformation from RoboSim to network of timed automata for UPPAAL</title>
+      <link>https://CIn-TRUST.github.io/projects/robosim2uppaal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CIn-TRUST.github.io/projects/robosim2uppaal/</guid>
+      <description>&lt;div align=&#34;justify&#34;&gt;This project investigates how to transform from RoboSim models to timed automata.&lt;/div&gt;
+&lt;br&gt;
+&lt;div align=&#34;justify&#34;&gt;We propose a model transformation method based on TA patterns and mapping rules, and develop a real-time automatic transformation tool from RoboSim model to NTA model for UPPAAL. This work was successfully applied to the real case Alpha algorithm. The next steps are: 1. Automatic generation of properties for robots. 2. Propose a new DSML for modeling specific environment.&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>RoboTIC@ – Information and communication technology for robotics and applications</title>
+      <link>https://CIn-TRUST.github.io/projects/robotic@/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://CIn-TRUST.github.io/projects/robotic@/</guid>
+      <description>&lt;div align=&#34;justify&#34;&gt;The main objective of this project is to create a systematic and rigorous methodology to specify, verify, design and implement robotic applications.&lt;/div&gt;
+&lt;br&gt;
+&lt;div align=&#34;justify&#34;&gt;It is one of the projects of &lt;a href=&#34;https://ines.org.br/&#34; target=&#34;_blank&#34;&gt;INES&lt;/a&gt; and is part of the &lt;a href=&#34;https://www.cs.york.ac.uk/RoboStar/&#34; target=&#34;_blank&#34;&gt;RoboStar&lt;/a&gt; initiative. The focus is on the design of a graphical simulation language, RoboSim, and mapping models in RoboSim to several target platforms: Arduino, B and Simulink/Stateflow, among others. Development of the final implementations from the simulations is also in scope. Finally, we will also consider probabilistic models, modelling of the environment and the development of real world applications.&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>(finished) COMPASS – Comprehensive Modelling for Advanced Systems of Systems</title>
+      <link>https://CIn-TRUST.github.io/projects/compass/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://CIn-TRUST.github.io/projects/compass/</guid>
+      <description>&lt;div align=&#34;justify&#34;&gt;COMPASS will augment existing industry tools and practice with an underlying modelling language in which Systems of Systems (SoS) architectures and contracts can be expressed.&lt;/div&gt;
+&lt;br&gt;
+&lt;div align=&#34;justify&#34;&gt;A formal semantic foundation–the first to be developed specifically for SoS engineering–will enable this language to support analysis of global SoS properties. The language and methods will be supported by an open, extendible tools platform with integrated prototype plug-ins for model construction, dynamic analysis by simulation and test automation, static analysis by model-checking and proof, and links to an established architectural modelling language (SysML). These strengthened foundations and tools will support enhanced methods guidelines that help users embed this new technology in industrial SoS practice. Technical advances in COMPASS are focussed on industry needs evaluated through substantial industry-led case studies in three diverse and complementary areas. These will be augmented by challenge problems solicited from a range of SoS stakeholders and developer organisations through a special interest group. The open platform, tools plug-ins, semantics, development guidelines, industry case study experience and challenge problems will ensure that COMPASS&#39;s outputs can be readily exploited by SoS developers and stakeholders as well as in future research and development.&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://CIn-TRUST.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://CIn-TRUST.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://CIn-TRUST.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://CIn-TRUST.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://CIn-TRUST.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://CIn-TRUST.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://CIn-TRUST.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://CIn-TRUST.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborations</title>
+      <link>https://CIn-TRUST.github.io/collaborations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://CIn-TRUST.github.io/collaborations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
