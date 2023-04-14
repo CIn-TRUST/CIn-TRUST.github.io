@@ -89,16 +89,6 @@
     </item>
     
     <item>
-      <title>Reducing cost of software – a scalable model-based verification framework | Concluded in 2019</title>
-      <link>https://CIn-TRUST.github.io/projects/coco/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://CIn-TRUST.github.io/projects/coco/</guid>
-      <description>&lt;div align=&#34;justify&#34;&gt;This project will develop a scalable model-based verification framework that will allow MDE languages to be verified within an industrial context.&lt;/div&gt;
-&lt;br&gt;
-&lt;div align=&#34;justify&#34;&gt;In many manufacturing industries, the escalating cost of software development is widely recognised as a serious challenge and is becoming a significant barrier to innovation. Formal verification provides a potential solution to this, however, there are presently no scalable verification methods that can handle embedded software designed in open model-driven engineering (MDE) languages, such as SysML and UML. This project will develop a scalable model-based verification framework that will allow MDE languages to be verified within an industrial context. At the core of the proposed framework is a new formal language, called Communicating Components (CoCo). Standard MDE languages such as SysML and UML will be translated into CoCo, and we will develop a scalable verification strategy based on FDR. We will also investigate how theorem proving can allow us to create provably correct source code generators.&lt;/div&gt;</description>
-    </item>
-    
-    <item>
       <title>Compositional modelling, verification and testing of systems with applications in the aerospace industry | Concluded in 2018</title>
       <link>https://CIn-TRUST.github.io/projects/embraer/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
