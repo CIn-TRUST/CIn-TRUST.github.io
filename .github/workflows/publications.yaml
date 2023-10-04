@@ -1,0 +1,52 @@
+name: Generate publications
+
+on:
+    # Allows you to run this workflow manually from the Actions tab
+    workflow_dispatch:
+    push:
+        branches:
+            - "**"
+    pull_request:
+        branches:
+            - "**"
+permissions:
+    contents: write
+
+# Default to bash
+defaults:
+    run:
+      shell: bash
+  
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v3
+        - name: Set up Python 3.x
+          uses: actions/setup-python@v4
+          with:
+            # Semantic version range syntax or exact version of a Python version
+            python-version: '3.x'
+            # Optional - x64 or x86 architecture, defaults to x64
+            architecture: 'x64'
+        - name: Install python dependencies
+          run: pip install academic==0.5.1 bibtexparser==1.4.0
+        - name: Generating bibtex from dblp for all authors
+          run:  python gen_publications.py
+        - name: Importing publications
+          run:  academic import --bibtex recent_bibtex.bib
+        - name: check for changes
+          run: git status
+        - name: Configure local user
+          run: |
+            git config --local user.name actions-user
+            git config --local user.email "actions@github.com"
+        - name: Add files
+          run: git add .
+        - name: Commit files  
+          run: |
+            output=$(git status --porcelain)
+            if [[ -n "$output" ]]; then               
+                git commit -am "GH Action Files added $(date)"
+                git push origin "${{ github.ref_name }}"
+            fi

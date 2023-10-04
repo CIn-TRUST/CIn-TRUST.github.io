@@ -1,0 +1,73 @@
+https://wordart.com/create
+- Import .csv
+- Shape: cloud
+- Font: Roboto
+- Layout: Horizontal
+- Words colors: Custom
+#59c84b
+#889a65
+#365b3e
+#c25952
+#e52c21
+#170b20
+#278923
+- Background image: 30%
+
+https://www.wordclouds.com/
+
+Escopo: 2023 -- 2013
+
+:: Augusto
+A refinement checking based strategy for component-based systems evolution.
+Automation and consistency analysis of test cases written in natural language
+Verified simulation for robotics
+Test case generation, selection and coverage from natural language
+CPN simulation-based test case generation from controlled natural-language requirements
+Compositional and Local Livelock Analysis for CSP
+Theoretical aspects of computing
+An idiom to represent data types in Alloy
+An integrated semantics for reasoning about SysML design models using refinement
+Sound Conformance Testing for Cyber-Physical Systems: Theory and Implementation
+FORMAL ASPECTS OF COMPUTING
+Rigorous development of component-based systems using component metadata and patterns
+Modelling timed reactive systems from natural-language requirements
+Test generation from state based use case models
+Test case generation from natural language requirements based on SCR specifications
+Sound and mechanised compositional verification of input-output conformance
+
+:: Alexandre
+UI Test case prioritization on an industrial setting: A search for the best criteria
+The effect of distance metrics in a general purpose synthesizer: An empirical study on integer domain imperative programs
+A family of multi-concept program synthesisers in Alloy
+HSP: A Hybrid Selection and Prioritisation of Regression Test Cases based on Information Retrieval and Code Coverage applied on an Industrial Case Study
+Combining model finder and genetic programming into a general purpose automatic program synthesizer
+Aiding exploratory testing with pruned GUI models
+Rigorous development of component-based systems using component metadata and patterns
+Program Synthesis by Model Finding
+An algebra of temporal faults
+Model checking CML: tool development and industrial applications
+NAT2TEST: Test case generation from natural language requirements based on SCR specifications
+Sound and mechanised compositional verification of input-output conformance
+Quantifying the effects of aspectual decompositions on  design by contract modularization
+Optimizing generated aspect-oriented assertion checking code for JML using program transformations: An empirical study
+
+:: Gustavo
+Validating, verifying and testing timed data-flow reactive systems in Coq from controlled natural-language requirements
+CPN simulation-based test case generation from controlled natural-language requirements
+Sound Conformance Testing for Cyber-Physical Systems: Theory and Implementation
+Modelling timed reactive systems from natural-language requirements
+NAT2TEST: Test Case Generation from Natural Language Requirements based on SCR
+
+:: Juliano
+A family of multi-concept program synthesisers in alloy
+The effect of distance metrics in a general purpose synthesizer: An empirical study on integer domain imperative programs
+Test case generation, selection and coverage from natural language
+Combining model finder and genetic programming into a general purpose automatic program synthesizer
+An integrated semantics for reasoning about SysML design models using refinement
+Program Synthesis by Model Finding
+From Requirements to Ready to Run Software: A Brief Thought on How to Mechanize The Software Development Process
+Compositionality and correctness of fault tolerant patterns in HOL4
+
+:: Márcio
+An integrated semantics for reasoning about SysML design models using refinement
+Optimizing generated aspect-oriented assertion checking code for JML using program transformations: An empirical study
